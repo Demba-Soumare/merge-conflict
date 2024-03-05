@@ -1,6 +1,6 @@
 # merge-conflict
 
-Un jour je serai le meilleur dresseur
+Un jour je serai le meilleur chanteur
 Je me battrai sans répit
 Je ferai tout pour être vainqueur
 Et gagner les défis
